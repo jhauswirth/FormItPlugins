@@ -1,0 +1,7 @@
+{
+  "RepoName": "FormIt Example Plugins",
+  "Plugins":
+  [
+  "HelloBlock",
+  ]
+}
