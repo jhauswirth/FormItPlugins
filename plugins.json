@@ -1,7 +1,7 @@
 {
-  "RepoName": "FormIt Example Plugins",
+  "RepoName": "Jeff's FormIt Plugins",
   "Plugins":
   [
-  "HelloBlock",
+  "HelloBlock"
   ]
 }
